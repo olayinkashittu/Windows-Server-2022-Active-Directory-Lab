@@ -36,10 +36,3 @@ This directory contains screenshots demonstrating the configuration and verifica
 7. Active Directory verification
 
 8. Domain Controller diagnostics
-
-
-
-06-powershell-verification.png
-
-07-dcdiag.png
-
