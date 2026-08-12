@@ -15,6 +15,7 @@
 
 ```powershell
 Get-ADDomain
+
 Get-ADForest
 dcdiag
 
