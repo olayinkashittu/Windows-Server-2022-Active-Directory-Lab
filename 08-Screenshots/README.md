@@ -15,3 +15,17 @@ This folder contains screenshots documenting the major stages of the lab.
 9. PowerShell verification
 10. Domain Controller health checks
 
+01-server-info.png
+
+02-network-config.png
+
+03-active-directory.png
+
+04-ou-it.png
+
+05-user-jdoe.png
+
+06-powershell-verification.png
+
+07-dcdiag.png
+
