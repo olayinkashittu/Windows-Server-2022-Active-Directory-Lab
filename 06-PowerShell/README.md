@@ -25,3 +25,29 @@ Active Directory management
 Network configuration
 Troubleshooting
 System verification
+
+# PowerShell Administration
+
+## Objective
+
+Use PowerShell to administer and verify the Windows Server 2022 Active Directory environment.
+
+## Commands Demonstrated
+
+```powershell
+Get-NetIPConfiguration
+
+Get-ADDomain
+
+Get-ADForest
+
+Get-ADOrganizationalUnit
+
+Get-ADUser jdoe
+
+Skills Demonstrated
+Network configuration
+Active Directory administration
+User management
+Organizational Unit management
+System verification
