@@ -24,6 +24,8 @@ Create and organize Active Directory objects using Organizational Units.
 
 Verification
 The IT Organizational Unit was successfully created within the lab.local domain.
+Verification
+The IT Organizational Unit was successfully created within the lab.local domain.
 
 
 ```powershell
