@@ -47,4 +47,36 @@ lab.local
 
     └── jdoe
 
+Technologies
 
+Windows Server 2022
+
+Active Directory Domain Services
+
+DNS
+
+PowerShell
+
+Oracle VirtualBox
+
+TCP/IP Networking
+
+Skills Demonstrated
+
+Windows Server administration
+
+Active Directory administration
+
+DNS configuration
+
+Network configuration
+
+User and group management
+
+Organizational Unit management
+
+PowerShell
+
+Troubleshooting
+
+System verification
