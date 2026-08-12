@@ -15,15 +15,29 @@ This folder contains screenshots documenting the major stages of the lab.
 9. PowerShell verification
 10. Domain Controller health checks
 
-01-server-info.png
+# Screenshots
 
-02-network-config.png
+This directory contains screenshots demonstrating the configuration and verification of the Windows Server 2022 Active Directory lab.
 
-03-active-directory.png
+## Planned Screenshots
 
-04-ou-it.png
+1. Windows Server 2022 server configuration
 
-05-user-jdoe.png
+2. Network configuration
+
+3. Active Directory Domain Services
+
+4. IT Organizational Unit
+
+5. jdoe user account
+
+6. PowerShell administration
+
+7. Active Directory verification
+
+8. Domain Controller diagnostics
+
+
 
 06-powershell-verification.png
 
