@@ -18,3 +18,10 @@ Get-ADGroup "IT-Admins"
 Get-ADDomainController
 
 dcdiag
+
+Skills Demonstrated
+PowerShell administration
+Active Directory management
+Network configuration
+Troubleshooting
+System verification
