@@ -20,7 +20,7 @@ New-ADOrganizationalUnit -Name "IT"
 Get-ADOrganizationalUnit -Filter *
 ```
 
-# Organizational Units
+## Organizational Units
 
 ## IT Organizational Unit
 
