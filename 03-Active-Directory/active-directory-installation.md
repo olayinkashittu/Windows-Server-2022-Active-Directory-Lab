@@ -75,4 +75,3 @@ Get-ADForest
 
 Result
 The Windows Server 2022 system is operating as the Domain Controller for the lab.local domain.
-
