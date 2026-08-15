@@ -1,40 +1,73 @@
-# Windows-Server-2022-Active-Directory-Lab
-Hands on Windows Server 2022 Active Directory Domain Controller lab demonstrating AD DS, DNS, OU management, security groups, user administration and PowerShell.
+# Windows Server 2022 Active Directory Domain Controller Lab
 
-# Windows Server 2022 Active Directory Lab
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-green)
+![PowerShell](https://img.shields.io/badge/PowerShell-Administration-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-orange)
 
 ## Project Overview
 
-Hands-on enterprise infrastructure lab demonstrating the deployment and administration of a Windows Server 2022 Active Directory Domain Controller.
+This project demonstrates the deployment and administration of a Windows Server 2022 Active Directory environment using Oracle VirtualBox.
 
-## Environment
+The lab was designed to simulate a small enterprise IT infrastructure and provide practical experience in:
 
-- Server: DC01
-- Domain: lab.local
-- Virtualization: Oracle VirtualBox
-- Operating System: Windows Server 2022
+- Windows Server administration
+- Active Directory
+- DNS configuration
+- User and group management
+- PowerShell administration
+- IT infrastructure management
 
-## Active Directory
+## Lab Environment
 
-- Active Directory Domain Services
+| Component | Configuration |
+| --- | --- |
+| Server | DC01 |
+| Operating System | Windows Server 2022 |
+| Domain | lab.local |
+| Server Role | Domain Controller |
+| Virtualization | Oracle VirtualBox |
+| IPv4 Address | 10.0.2.15 |
+| Active Directory | AD DS |
+| DNS | Windows DNS |
+| Administrative Tool | PowerShell |
+
+## Lab Architecture
+
+```bash
+            Internet
+                |
+            VirtualBox
+                |
+              DC01
+      Windows Server 2022
+                |
+            10.0.2.15
+                |
+            lab.local
+                |
+      +---------+---------+
+      |                   |
+      IT             IT-Admins
+      |
+    jdoe
+```
+
+## Project Tasks
+
+- Server deployment
+- Network configuration
+- Active Directory installation
+- Organizational Unit creation
+- User account management
+- Security group configuration
+- PowerShell administration
+- Testing and verification
+
+## Technologies
+
+- Windows Server 2022
+- Active Directory
 - DNS
-- Organizational Units
-- Security Groups
-- User Accounts
-- PowerShell Administration
-
-## Lab Structure
-
-1. Server Deployment
-2. Network Configuration
-3. Active Directory
-4. Organizational Units
-5. Users and Groups
-6. PowerShell
-7. Testing and Verification
-8. Screenshots
-9. Documentation
-
-## Key Skills
-
-Windows Server | Active Directory | DNS | PowerShell | TCP/IP | Network Administration | IT Infrastructure
+- PowerShell
+- Oracle VirtualBox
