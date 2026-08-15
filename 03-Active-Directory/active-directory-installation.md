@@ -43,7 +43,7 @@ Get-ADDomain
 ```bash
 Get-ADForest
 dcdiag
-```bash
+```
 
 # Active Directory
 
