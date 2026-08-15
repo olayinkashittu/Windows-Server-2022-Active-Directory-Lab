@@ -71,3 +71,4 @@ The lab was designed to simulate a small enterprise IT infrastructure and provid
 - DNS
 - PowerShell
 - Oracle VirtualBox
+  
