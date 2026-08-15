@@ -16,3 +16,4 @@ Deploy a Windows Server 2022 virtual machine using Oracle VirtualBox.
 ## Result
 
 A Windows Server 2022 virtual machine was successfully deployed.
+
