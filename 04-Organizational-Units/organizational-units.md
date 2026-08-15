@@ -19,3 +19,4 @@ New-ADOrganizationalUnit -Name "IT"
 ```bash
 Get-ADOrganizationalUnit -Filter *
 ```
+
