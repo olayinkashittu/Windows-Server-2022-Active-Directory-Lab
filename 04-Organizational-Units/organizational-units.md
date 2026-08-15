@@ -45,13 +45,7 @@ Create and organize Active Directory objects using Organizational Units.
 
 ## PowerShell
 
-Verification
+### Verification
 The IT Organizational Unit was successfully created within the lab.local domain.
 Verification
 The IT Organizational Unit was successfully created within the lab.local domain.
-
-
-```bash
-New-ADOrganizationalUnit -Name "IT" -Path "DC=lab,DC=local"
-```bash
-
