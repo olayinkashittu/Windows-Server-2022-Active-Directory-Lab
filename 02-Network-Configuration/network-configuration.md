@@ -93,4 +93,3 @@ Configure and verify the network settings for the Windows Server 2022 Domain Con
 - Default Gateway: 10.0.2.2
 - DNS Server: 10.0.2.3
 - Domain: lab.local
-
